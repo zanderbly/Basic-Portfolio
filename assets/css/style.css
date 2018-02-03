@@ -1,0 +1,114 @@
+/**
+Portfolio Project - 1st homework assignment
+**/
+
+* {
+  box-sizing: border-box;
+
+
+}
+
+body {
+  	/*display: flex;
+  	flex-direction: column;
+  	min-height: 80vh;*/
+  	margin: 0;
+}
+
+header {
+	padding: -30px;
+	color: #333;
+	background-color: #BBBBBB;
+	width: 960px;
+	margin: auto;
+	
+}
+
+#topdiv {
+	width: 100%;
+	overflow: auto;
+	margin: auto;
+	background-color: #FFFFFF;
+
+}
+
+#name {
+	padding: 25px;
+	background-color: #4aaaa5;
+	border-bottom: 50px;
+	color: white;
+	float: left;
+	margin: 0 0 0 0;
+}
+
+#aboutdiv {
+	width: 960px;
+	overflow: auto;
+	margin: auto;
+	margin-top: 40px;
+}
+
+#AboutMe {
+	background-color: #ccc;
+	width: 650px;
+	overflow: auto;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+
+#aboutmetext {
+	
+}
+
+#Sidebar {
+	background-color: #ccc;
+	width: 270px;
+	overflow: auto;
+	float: right;
+	text-align: center;
+}
+
+footer {
+	padding: 20px;
+	background-color: #ccc;
+	margin-bottom: -8px;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-color: #4aaaa5;
+	text-align: center;
+
+}
+
+#self {
+	width: 30%;
+	float: left;
+	padding-right: 10px;
+	border-radius: 12%;
+	
+}
+  
+#portlink {
+	border-left: #CCCCCC solid 2px;
+	border-right: #CCCCCC solid 2px;
+
+}
+
+#list {
+	text-align: center;
+	float: right;
+	margin-bottom: 50px;
+	
+
+}
+
+li {
+	display: inline-block;
+	text-align: center;
+}
+
+	
+
+
+}
